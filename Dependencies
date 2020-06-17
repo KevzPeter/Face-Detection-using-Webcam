@@ -1,0 +1,5 @@
+opencv-python
+cvlib
+matplotlib
+numpy
+tensorflow (requires python 64bit)
